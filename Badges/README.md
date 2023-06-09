@@ -55,6 +55,7 @@ A collection of unique events that happened on Discord.
 | Explanation | Image | 
 | --- | --- |
 | Due to the Moderator Alumni server being closed down Sapphire was one of the only bots to ever obtain the **Moderator Programs Alumni** badge. | <img  src="./assets/fame/sapphiremod.png"> |
+| Discord Employees who create alternate account seem to have obtained unobtainable badges. It's likely that their badges are migrated over to their alternate accounts. | <img src="./assets/fame/quikblend.png"> |
 
 ## Badge Change Log
 
